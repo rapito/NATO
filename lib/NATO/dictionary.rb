@@ -26,15 +26,15 @@ module NATO
       'x': [:'X-ray', :'ECKS-RAY'],
       'y': [:Yankee, :'YANG-KEY'],
       'z': [:Zulu, :'ZOO-LOO'],
-      '1': ['1', :'WUN'],
-      '2': ['2', :'TOO'],
-      '3': ['3', :'TREE'],
-      '4': ['4', :'FOW-ER'],
-      '5': ['5', :'FIFE'],
-      '6': ['6', :'SIX'],
-      '7': ['7', :'SEV-EN'],
-      '8': ['8', :'AIT'],
-      '9': ['9', :'NIN-ER'],
-      '0': ['0', :'ZEE-RO']
+      '1': [:One, :'WUN'],
+      '2': [:Two, :'TOO'],
+      '3': [:Three, :'TREE'],
+      '4': [:Four, :'FOW-ER'],
+      '5': [:Five, :'FIFE'],
+      '6': [:Six, :'SIX'],
+      '7': [:Seven, :'SEV-EN'],
+      '8': [:Eight, :'AIT'],
+      '9': [:Nine, :'NIN-ER'],
+      '0': [:Zero, :'ZEE-RO']
   }
 end
