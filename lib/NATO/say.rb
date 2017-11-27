@@ -1,4 +1,4 @@
-require "os"
+require 'os'
 
 module NATO
   module Say

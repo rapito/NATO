@@ -1,4 +1,4 @@
-require_relative "text"
+require_relative 'text'
 
 module NATO
   module Refined

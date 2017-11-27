@@ -9,6 +9,14 @@ module NATO
         expect(text.to_nato).to eq \
           "Alfa Eight Hotel Four Three Lima November Romeo Zero"
       end
+
+      it "should join with default 'as in'"  do
+        puts Text.new 'hola', humanized: true
+      end
+
+      it "should separate with custom separator"  do
+
+      end
     end
 
     describe "#to_s" do
