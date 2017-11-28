@@ -9,7 +9,7 @@ module NATO
       'g': [:Golf, :'GOLF'],
       'h': [:Hotel, :'HOH-TEL'],
       'i': [:India, :'IN-DEE-AH'],
-      'j': [:Juliett, :'JEW-LEE-ETT'],
+      'j': [:Juliet, :'JEW-LEE-ETT'],
       'k': [:Kilo, :'KEY-LOH'],
       'l': [:Lima, :'LEE-MAH'],
       'm': [:Mike, :'MIKE'],

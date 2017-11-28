@@ -11,7 +11,10 @@ module NATO
       end
 
       it "should join with default 'as in'"  do
-        puts Text.new 'hola', humanized: true
+        res = Text.new('VJ980', humanized: true).to_s
+
+        expected_result = "V as in Victor, J as in Juliet, Nine, Eight, Zero"
+        expect(res).to eql expected_result
       end
 
       it "should separate with custom separator"  do

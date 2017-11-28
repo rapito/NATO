@@ -40,7 +40,7 @@ module NATO
           [
             [:Mike, :MIKE], [:Lima, :"LEE-MAH"],
             [:Oscar, :"OSS-CAH"], [:Zulu, :"ZOO-LOO"],
-            [:Juliett, :"JEW-LEE-ETT"], [:Uniform, :"YOU-NEE-FORM"],
+            [:Juliet, :"JEW-LEE-ETT"], [:Uniform, :"YOU-NEE-FORM"],
             [:Whiskey, :"WISS-KEY"], [:Sierra, :"SEE-AIR-RAH"],
             [:Whiskey, :"WISS-KEY"], [:Kilo, :"KEY-LOH"],
             [:Romeo, :"ROW-ME-OH"], [:Hotel, :"HOH-TEL"],
@@ -58,7 +58,7 @@ module NATO
           [
             [:Mike, :MIKE], [:Lima, :"LEE-MAH"],
             [:Zero, :"ZEE-RO"], [:One, :WUN],
-            [:Juliett, :"JEW-LEE-ETT"], [:Uniform, :"YOU-NEE-FORM"],
+            [:Juliet, :"JEW-LEE-ETT"], [:Uniform, :"YOU-NEE-FORM"],
             [:Whiskey, :"WISS-KEY"], [:Sierra, :"SEE-AIR-RAH"],
             [:Eight, :AIT], [:Four, :"FOW-ER"],
             [:Six, :SIX], [:Hotel, :"HOH-TEL"],
